@@ -1,2 +1,0 @@
-SELECT * FROM Func;
-SELECT * FROM Empresas;
